@@ -1,4 +1,4 @@
-# snake_tracker
+# ArUCO_tracker
 
 ## Calibration
 ```console
