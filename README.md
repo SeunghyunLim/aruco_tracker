@@ -1,4 +1,4 @@
-# ArUCO_tracker
+# ArUco_tracker
 
 ## Calibration
 ```console
